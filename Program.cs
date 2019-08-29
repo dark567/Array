@@ -15,7 +15,7 @@ namespace ConsoleRelease2
         {
             Console.WriteLine("Vasyl Travin testing changes.");
 
-            ArraInt array = new ArraInt(10);
+            ArraInt array = new ArraInt(15);
 
             Console.WriteLine(array.GetSum());
 
